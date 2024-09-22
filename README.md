@@ -1,4 +1,4 @@
-This repository contains two machine learning projects:
+This repository contains two projects:
 
 1. Iris Flower Classification: Classify iris flowers into three species using Jupyter Notebooks.
    > The primary objective of this project is to design and implement a machine learning model that can accurately classify Iris flowers into their respective species (Setosa,     
